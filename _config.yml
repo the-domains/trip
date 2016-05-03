@@ -1,0 +1,28 @@
+name: trip
+favicon: null
+layout_spectrum: 0.9985666438005865
+typography_spectrum: 0.19805121119134128
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.004860868910327554
+  lightness: 0.5413716984912753
+  saturation: 0.8407182062510401
+  rhythmicContrast: 0.21335037448443472
+purpose: []
