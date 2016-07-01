@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Welcome to our travel site
-datePublished: '2016-07-01T10:59:15.716Z'
-dateModified: '2016-07-01T10:59:02.970Z'
+datePublished: '2016-07-01T11:10:54.875Z'
+dateModified: '2016-07-01T10:59:16.376Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-03-welcome-to-our-travel-site.md
@@ -21,4 +21,4 @@ _type: Article
 
 Welcome to our travel site
 
-This
+We are planning to take our wonderful family for a 6 month trip around Europe and the US. This site will be the place where we will update our experiences and our (life) lessons learned.
